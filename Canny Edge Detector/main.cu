@@ -1,6 +1,8 @@
-#include <vector>
-#include <math.h>
+#include <cuda.h>
+#include <device_functions.h>
+#include <opencv2\opencv.hpp>
 #include <iostream>
+
 
 using namespace std;
 using namespace cv;
